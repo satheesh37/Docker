@@ -1,4 +1,4 @@
 FROM almalinux:9
 ENV course="Devops" \
-    trainer= "satheesh" \
+    trainer="satheesh" \
     duration="120hrs"
